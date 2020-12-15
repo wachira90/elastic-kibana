@@ -1,6 +1,6 @@
-# elastic
+# elastic + kibana
 
-elasticsearch
+elasticsearch + kibana
 
 # run 
 
